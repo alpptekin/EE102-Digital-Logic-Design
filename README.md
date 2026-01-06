@@ -1,6 +1,6 @@
 # EE102-Digital-Logic-Design
 This repository contains EE102 labs and term project completed during the Fall 2025 semester. 
-You can find the lab reports in the corresponding folders, and the VHDL codes inside the ZIP files.
+You can find the lab reports in the corresponding folders and the VHDL codes inside the ZIP files.
 ## Labs
 
 - [Lab 1](Lab01)
